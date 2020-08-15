@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Bilgi-yarışması\Bilgi-yarışması\bin\Debug\Bilgi-yarışması.exe.config
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Bilgi-yarışması\Bilgi-yarışması\bin\Debug\Bilgi-yarışması.exe
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Bilgi-yarışması\Bilgi-yarışması\bin\Debug\Bilgi-yarışması.pdb
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Bilgi-yarışması\Bilgi-yarışması\obj\Debug\Bilgi-yarışması.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Bilgi-yarışması\Bilgi-yarışması\obj\Debug\Bilgi_yarışması.Form1.resources
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Bilgi-yarışması\Bilgi-yarışması\obj\Debug\Bilgi_yarışması.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Bilgi-yarışması\Bilgi-yarışması\obj\Debug\Bilgi-yarışması.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Bilgi-yarışması\Bilgi-yarışması\obj\Debug\Bilgi-yarışması.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Bilgi-yarışması\Bilgi-yarışması\obj\Debug\Bilgi-yarışması.exe
+C:\Users\Lenovo\Desktop\Tüm Dosyalar\Scripts\Bilgi-yarışması\Bilgi-yarışması\obj\Debug\Bilgi-yarışması.pdb
